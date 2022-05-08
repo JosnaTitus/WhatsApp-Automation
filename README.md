@@ -1,6 +1,7 @@
-                                            WHATSAPP AUTOMATION PROJECT
+                                                WHATSAPP AUTOMATION PROJECT
                                             
-Project Members:-                                            
+Project Members:-  
+
     Josna Titus
     Chiranjeev Apte
     Madhura Kshatriya
