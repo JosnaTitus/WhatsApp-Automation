@@ -1,1 +1,4 @@
-WHATSAPP AUTOMATION PROJECT
+                                            WHATSAPP AUTOMATION PROJECT
+    Josna Titus
+    Chiranjeev Apte
+    Madhura Kshatriya
