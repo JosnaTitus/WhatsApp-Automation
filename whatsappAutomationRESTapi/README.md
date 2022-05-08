@@ -30,7 +30,7 @@ To Run this project,
 
 For your reference you can use the images given below:
 
-1.	MYSQL with “whatsapp_automation” database created.
+> 1.	MYSQL with “whatsapp_automation” database created.
  ![image](https://user-images.githubusercontent.com/56665824/167295252-140ca4eb-eb0c-4499-a5fb-eff4e74b1bd4.png)
 
 2.	List of tables in “whatsapp_automation” database
