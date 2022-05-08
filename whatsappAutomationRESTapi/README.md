@@ -30,3 +30,18 @@ To Run this project,
 
 Thank You !!!
 
+1.	MYSQL with “whatsapp_automation” database created.
+ ![image](https://user-images.githubusercontent.com/56665824/167295252-140ca4eb-eb0c-4499-a5fb-eff4e74b1bd4.png)
+
+2.	List of tables in “whatsapp_automation” database
+ 
+3.	Running the server and opening on browser with “accounts” list.
+ 
+4.	Implementation of REST APIs – POST method
+ 
+5.	Implementation of REST APIs – GET method
+ 
+6.	Implementation of REST APIs – PUT method
+ 
+7.	Data is inserted into MYSQL.
+ 
