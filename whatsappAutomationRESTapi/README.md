@@ -9,26 +9,26 @@ To Run this project,
 
 
 
-1. Create Database naming "whatsapp_automation" in mysql.
+      1. Create Database naming "whatsapp_automation" in mysql.
 
-2. Go to [whatsappAutomationRESTapi -> settings.py](whatsappAutomationRESTapi/settings.py)   and Enter your user and password in DATABASES part.
+      2. Go to [whatsappAutomationRESTapi -> settings.py](whatsappAutomationRESTapi/settings.py)   and Enter your user and password in DATABASES part.
 
-3. then run following commands:
+      3. then run following commands:
    ```
    python3 manage.py makemigrations
    python3 manage.py migrate
    python3 manage.py createsuperuser
    python3 manage.py runserver
    ```
-4. After Server is up and running [Click here](http://127.0.0.1:8000/admin).
+      4. After Server is up and running [Click here](http://127.0.0.1:8000/admin).
 
-5. Login page will appear. Login with Username and Password set while creating super user.
+      5. Login page will appear. Login with Username and Password set while creating super user.
 
-6. After Login, we can see the tables.
+      6. After Login, we can see the tables.
 
-7. Change URL to [http://127.0.0.1:8000/accounts/](http://127.0.0.1:8000/accounts/) to Create, Update, delete or view the accounts.
+      7. Change URL to [http://127.0.0.1:8000/accounts/](http://127.0.0.1:8000/accounts/) to Create, Update, delete or view the accounts.
 
-You can refer to the images given below for your refernece
+For your reference you can use the images given below:
 
 1.	MYSQL with “whatsapp_automation” database created.
  ![image](https://user-images.githubusercontent.com/56665824/167295252-140ca4eb-eb0c-4499-a5fb-eff4e74b1bd4.png)
